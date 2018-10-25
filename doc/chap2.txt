@@ -1,0 +1,30 @@
+  
+  [1X2 [33X[0;0YInstalling and Loading the Itest Package[133X[101X
+  
+  
+  [1X2.1 [33X[0;0YRequired Packages[133X[101X
+  
+  [33X[0;0YThe  [5XItest[105X package requires [5XGAP[105X (version>=4.9.2) and the packages [5Xpolymaking[105X
+  (version>=0.8.1) and [5Xsemigroups[105X (version>=2.8.0)[133X
+  
+  
+  [1X2.2 [33X[0;0YLoading the Itest Package[133X[101X
+  
+  [33X[0;0YTo  use the [5XItest[105X Package you have to request it explicitly. This is done by
+  calling [2XLoadPackage[102X ([14XReference: LoadPackage[114X):[133X
+  
+  [4X[32X  Example  [32X[104X
+    [4X[25Xgap>[125X [27XLoadPackage("itest");[127X[104X
+    [4X[28X─────────────────────────────────────────────────────────────────────────────[128X[104X
+    [4X[28XLoading  Itest - 1.0.1[128X[104X
+    [4X[28XAn implementation of Barmak and Minian's I-test [128X[104X
+    [4X[28Xby Iván Sadofschi Costa (http://mate.dm.uba.ar/~isadofschi)[128X[104X
+    [4X[28XFor help, type: ?Itest [128X[104X
+    [4X[28X─────────────────────────────────────────────────────────────────────────────[128X[104X
+    [4X[28Xtrue[128X[104X
+  [4X[32X[104X
+  
+  [33X[0;0YIf  you  want  to  load  the  [5XItest[105X  package  by  default,  you  can put the
+  [10XLoadPackage[110X  command  into  your  [11Xgaprc[111X  file  (see  Section [14X'Reference: The
+  gap.ini and gaprc files'[114X).[133X
+  

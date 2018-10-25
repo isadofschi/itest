@@ -1,0 +1,43 @@
+#SIXFORMAT  GapDocGAP
+HELPBOOKINFOSIXTMP := rec(
+encoding := "UTF-8",
+bookname := "G2Comp",
+entries :=
+[ [ "Title page", ".", [ 0, 0, 0 ], 1, 1, "title page", "X7D2C85EC87DD46E5" ],
+  [ "Copyright", ".-1", [ 0, 0, 1 ], 24, 2, "copyright", "X81488B807F2A1CF1" ]
+    , [ "Table of Contents", ".-2", [ 0, 0, 2 ], 29, 3, "table of contents", 
+      "X8537FEB07AF2BEC8" ], 
+  [ "\033[1X\033[33X\033[0;-2YThe I-test\033[133X\033[101X", "1", 
+      [ 1, 0, 0 ], 1, 4, "the i-test", "X7B52EA8D798C25C4" ], 
+  [ "\033[1X\033[33X\033[0;-2YFunctions for the I-test\033[133X\033[101X", 
+      "1.1", [ 1, 1, 0 ], 12, 4, "functions for the i-test", 
+      "X7F057C817B334F9B" ], 
+  [ 
+      "\033[1X\033[33X\033[0;-2YInstalling and Loading the Itest Package\033[133X\
+\033[101X", "2", [ 2, 0, 0 ], 1, 7, "installing and loading the itest package"
+        , "X79BD4E0985A075B7" ], 
+  [ "\033[1X\033[33X\033[0;-2YRequired Packages\033[133X\033[101X", "2.1", 
+      [ 2, 1, 0 ], 4, 7, "required packages", "X83E6E0297C710C1D" ], 
+  [ "\033[1X\033[33X\033[0;-2YLoading the Itest Package\033[133X\033[101X", 
+      "2.2", [ 2, 2, 0 ], 10, 7, "loading the itest package", 
+      "X780AF6E3871FCE11" ], 
+  [ "Bibliography", "bib", [ "Bib", 0, 0 ], 1, 8, "bibliography", 
+      "X7A6F98FD85F02BFE" ], 
+  [ "References", "bib", [ "Bib", 0, 0 ], 1, 8, "references", 
+      "X7A6F98FD85F02BFE" ], 
+  [ "Index", "ind", [ "Ind", 0, 0 ], 1, 9, "index", "X83A0356F839C696F" ], 
+  [ "Itest package", "1.", [ 1, 0, 0 ], 1, 4, "itest package", 
+      "X7B52EA8D798C25C4" ], 
+  [ "\033[2XSubwordMatrix\033[102X", "1.1-1", [ 1, 1, 1 ], 17, 4, 
+      "subwordmatrix", "X874043EF780C1209" ], 
+  [ "\033[2XWeightMatrix\033[102X", "1.1-2", [ 1, 1, 2 ], 37, 4, 
+      "weightmatrix", "X8671A9657FF828A2" ], 
+  [ "\033[2XIsGoodMatrix\033[102X", "1.1-3", [ 1, 1, 3 ], 54, 5, 
+      "isgoodmatrix", "X80C7AA14867C9D9F" ], 
+  [ "\033[2XITestVector\033[102X", "1.1-4", [ 1, 1, 4 ], 66, 5, 
+      "itestvector", "X7EF332037882DCB5" ], 
+  [ "\033[2XITestSimplex\033[102X", "1.1-5", [ 1, 1, 5 ], 80, 5, 
+      "itestsimplex", "X783E6A397F551A40" ], 
+  [ "\033[2XITest\033[102X", "1.1-6", [ 1, 1, 6 ], 96, 5, "itest", 
+      "X8114B72C838ABE35" ] ]
+);

@@ -1,8 +1,8 @@
 
 # The Itest package
 
-* Website: gap-packages.github.io/?????/
-* Repository: https://github.com/gap-packages/?????
+* Website: https://github.com/isadofschi/itest
+* Repository: https://github.com/isadofschi/itest
 
 An implementation of Barmak and Minian's I-test
 

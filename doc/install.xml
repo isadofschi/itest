@@ -1,0 +1,52 @@
+
+<!-- %W  install.xml            GAP documentation             		       -->
+<!-- %W                                                     I. Sadofschi Costa -->
+<!-- %H                                                                        -->
+<!-- %Y  Copyright (C) 2018,						       -->
+
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<Chapter Label="Installing and Loading the Itest Package">
+<Heading>Installing and Loading the Itest Package</Heading>
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+<Section Label="Required Packages">
+<Heading>Required Packages</Heading>
+  The <Package>Itest</Package> package requires &GAP; (version&gt;=4.9.2) and the packages <Package>polymaking</Package> (version&gt;=0.8.1) and <Package>semigroups</Package> (version&gt;=2.8.0)
+</Section>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<Section Label="Loading the Itest Package">
+<Heading>Loading the Itest Package</Heading>
+
+To use the <Package>Itest</Package> Package you have to request it explicitly. This  is
+done by calling <Ref Func="LoadPackage" BookName="ref"/>:
+<P/>
+<Example>
+gap> LoadPackage("itest");
+─────────────────────────────────────────────────────────────────────────────
+Loading  Itest - 1.0.1
+An implementation of Barmak and Minian's I-test 
+by Iván Sadofschi Costa (http://mate.dm.uba.ar/~isadofschi)
+For help, type: ?Itest 
+─────────────────────────────────────────────────────────────────────────────
+true
+</Example>
+<P/>
+
+
+<P/>
+If you want to load the <Package>Itest</Package> package by default, you  can  put  the
+<C>LoadPackage</C> command  into  your  <F>gaprc</F>  file  
+(see  Section&nbsp;<Ref Sect="The gap.ini and gaprc files" BookName="ref"/>).
+
+</Section>
+</Chapter>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- %% -->
+<!-- %E -->
+

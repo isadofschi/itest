@@ -1,0 +1,14 @@
+  
+  
+  [1XIndex[101X
+  
+  [2XIsGoodMatrix[102X  1.1-3
+  [2XITest[102X  1.1-6
+  Itest package  1.
+  [2XITestSimplex[102X  1.1-5
+  [2XITestVector[102X  1.1-4
+  [2XSubwordMatrix[102X  1.1-1
+  [2XWeightMatrix[102X  1.1-2
+  
+  
+  -------------------------------------------------------

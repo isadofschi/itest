@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Book SYSTEM "gapdoc.dtd">
+
+<Book Name="Itest">
+
+<TitlePage>
+  <Title>The <Package>Itest</Package> Package</Title>
+  <Subtitle>An implementation of Barmak and Minian's I-test.</Subtitle>
+  <Version>Version 1.0.1</Version>
+  <Date>2018</Date>
+  <Author>Iván Sadofschi Costa
+    <Email>isadofschi@dm.uba.ar</Email>
+    <Homepage>http://mate.dm.uba.ar/~isadofschi</Homepage>
+  </Author>
+
+  <Copyright>&copyright; 2018 Iván Sadofschi Costa.
+  </Copyright>
+</TitlePage>
+
+<TableOfContents/>
+
+<!-- Documentation of the Itest package. -->
+
+<Body>
+
+
+<#Include SYSTEM "itest.xml">
+
+<#Include SYSTEM "install.xml">
+
+</Body>
+
+<Bibliography Databases="itest" />
+<TheIndex/>
+
+</Book>
+
+<!-- ==================================================================== -->
+
