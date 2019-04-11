@@ -13,8 +13,8 @@ PackageName := "Itest",
 Subtitle := "An implementation of Barmak and Minian's I-test.",
 
 
-Version := "1.0.1",
-Date := "24/10/2018",
+Version := "1.0.2",
+Date := "10/04/2019",
 
 PackageWWWHome :=
   Concatenation( "https://github.com/isadofschi/", LowercaseString( ~.PackageName ) ),

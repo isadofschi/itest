@@ -6,7 +6,7 @@
                 [1XAn implementation of Barmak and Minian's I-test.[101X
   
   
-                                 Version 1.0.1
+                                 Version 1.0.2
   
   
                                       2018
