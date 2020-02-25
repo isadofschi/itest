@@ -19,3 +19,4 @@ gap> ITest(G);
 # Tried 10000 random vectors without success.
 # Now I am trying with every possible vector...
 false
+
