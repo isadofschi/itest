@@ -1,5 +1,5 @@
+SetInfoLevel(InfoPackageLoading,4); 
 LoadPackage( "itest" );
-
 TestDirectory( DirectoriesPackageLibrary("itest","tst/tests"),
 			   rec(exitGAP := true, testOptions := rec(compareFunction := "uptowhitespace") )
 
