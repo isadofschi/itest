@@ -9,7 +9,7 @@ addons:
     - libgmp-dev
     - libreadline-dev
     - zlib1g-dev
-	- polymake
+    - polymake
 
 matrix:
   include:
