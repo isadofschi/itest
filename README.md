@@ -1,4 +1,5 @@
-
+[![Build Status](https://travis-ci.org/isadofschi/itest.svg?branch=master)](https://travis-ci.org/isadofschi/itest)
+[![Code Coverage](https://codecov.io/github/isadofschi/itest/coverage.svg?branch=master&token=)](https://codecov.io/gh/isadofschi/itest)
 # The Itest package
 
 * Website: https://github.com/isadofschi/itest

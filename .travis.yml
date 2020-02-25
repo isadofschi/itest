@@ -2,7 +2,7 @@ dist: xenial
 language: c
 env:
   global:
-    - GAP_PKGS_TO_BUILD="polymaking semigroups profiling"
+    - GAP_PKGS_TO_BUILD="polymaking io orb semigroups profiling"
 
 addons:
   apt_packages:
