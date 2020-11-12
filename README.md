@@ -3,6 +3,7 @@
 # The Itest package
 
 * Website: https://github.com/isadofschi/itest
+* Documentation: http://mate.dm.uba.ar/~isadofschi/itest
 * Repository: https://github.com/isadofschi/itest
 
 An implementation of Barmak and Minian's I-test

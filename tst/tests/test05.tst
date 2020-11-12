@@ -1,4 +1,4 @@
-gap> M =[[[1,1]]];;
+gap> M :=[[[1,1]]];;
 gap> IsGoodMatrix(M);
 false
 gap> IsGoodMatrixByDefinition(M);
