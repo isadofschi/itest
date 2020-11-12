@@ -290,6 +290,9 @@ InstallGlobalFunction(ITest,function(G,n...)
 	B:=TriangulizedNullspaceMat(TransposedMat(ExponentMatrixOfGroup(G)));
 	B:=List(B, v-> Lcm(List(v,DenominatorRat))*v);
 	k:=Size(B);
+	if k=0 then
+		return false;
+	fi;
 	if n=[] then
 		maxTries:=10000;
 	else
